@@ -1,0 +1,22 @@
+table{
+    width: 600px;
+    height: 400px;
+    background-color: #011d01;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.cabecario{
+    background-color: #023302;
+    color: white;
+    font-weight: bold;
+}
+
+td{
+    background-color: white;
+    text-align: center;
+}
